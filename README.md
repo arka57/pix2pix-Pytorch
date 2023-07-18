@@ -40,15 +40,16 @@ NUM_EPOCHS = 500<br>
 # Result
 Some of the results generated are as follows<br>
 ![input_0_0](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/7aefceb8-2888-41e5-a71c-74858b72d943) ![label_0_0](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/39c9cd88-0b54-4502-aef7-6a651f8a1240) ![y_gen_400_0](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/9b2c33a5-b9d0-46ce-95e9-12c7dcbd51f3)<br>
-Satellite Image             Ground Truth          Generated Image
 ![input_0_3](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/031f82ba-ad29-41e7-bc3c-cbfcc06673df)
 ![label_0_3](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/4f97e24d-a331-480d-b690-e3f1ecb623d3)
 ![y_gen_499_3](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/ff8bbc8e-ba61-4a5f-87e7-56ae08fc44c8)
 <br>
+![input_0_2](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/e171e5b5-fdda-498d-80ff-1295041b6c73)
+![label_0_2](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/557dc01f-0194-49db-8fdd-2e0aeb443883)
+![y_gen_499_2](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/dd5dfef9-a0ff-4b61-9fd5-fe39d9c66857)
+<br>
 Satellite Image             Ground Truth          Generated Image
-
-
-
+<br>
 
 
 # References
