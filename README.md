@@ -53,5 +53,6 @@ Some of the results generated are as follows<br><br>
 
 
 # References
-Pix2Pix paper:  https://arxiv.org/abs/1611.07004
+Pix2Pix paper:  https://arxiv.org/abs/1611.07004<br>
+Youtube Channel: https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va
 
