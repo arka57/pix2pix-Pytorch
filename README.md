@@ -1,4 +1,4 @@
-# pix2pix-Pytorch
+#  Streetmap generation from Google satellite images using pix2pix-Pytorch
 
 Conditionsal Generative Adversarial Networks are an extensions to normal GANs where the targeted generated image is conditioned on some condition. This condition helps us in controlling what output we want to generate.
  Pix2Pix is an **image-to-image translation** process based on **Conditional GAN** where a target image is generated, that is conditioned on a given input image. 
