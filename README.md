@@ -36,7 +36,9 @@ CHANNELS_IMG = 3<br>
 L1_LAMBDA = 100<br>
 LAMBDA_GP = 10<br>
 NUM_EPOCHS = 500<br>
-
+# Execution Steps
+1)Download the dataset and place it in the folder<br>
+2)Execute **train.py** and for the above mentioned hyperparameters the model will be trained and evaluation pictures will also be generated after every 100 epochs<br><br>
 # Result
 Some of the results generated are as follows<br><br>
 ![input_0_0](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/7aefceb8-2888-41e5-a71c-74858b72d943) ![label_0_0](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/39c9cd88-0b54-4502-aef7-6a651f8a1240) ![y_gen_400_0](https://github.com/arka57/pix2pix-Pytorch/assets/36561428/9b2c33a5-b9d0-46ce-95e9-12c7dcbd51f3)<br>
