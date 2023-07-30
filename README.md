@@ -37,7 +37,7 @@ L1_LAMBDA = 100<br>
 LAMBDA_GP = 10<br>
 NUM_EPOCHS = 500<br>
 # Execution Steps
-1)Download the dataset and place it in the folder<br>
+1)Download the dataset and place it in the **data** folder<br>
 2)Execute **train.py** and for the above mentioned hyperparameters the model will be trained and evaluation pictures will also be generated after every 100 epochs<br><br>
 # Result
 Some of the results generated are as follows<br><br>
